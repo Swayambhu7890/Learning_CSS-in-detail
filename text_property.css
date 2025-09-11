@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    text-decoration: yellowgreen underline;     /*for text decoration */
+}
+
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#h1
+{
+    font-weight: normal;
+    font-weight: 100;
+}
+
+#h2
+{
+    font-weight: bold;
+    font-weight: 250;
+}
+
+#h3
+{
+    font-weight: bolder;
+    font-weight: 600;
+}
+
+#h4
+{
+    font-weight: lighter;
+    font-weight: 900;
+}
+
+#one {
+    font-family: arial;
+}
+
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
