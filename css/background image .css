@@ -1,0 +1,47 @@
+#box1 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 2px solid black;
+    background-image: url("/images/law4.jpg");
+     background-size: cover;                         /*    photos fit in box */
+}
+
+#box2 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 2px solid black;
+    background-image: url("/images/law4.jpg");
+    background-size: contain;
+ /* background-repeat: no-repeat;       no image is repeated */
+}
+
+#box3 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 2px solid black;
+    background-image: url("/images/law4.jpg");
+    background-size: auto;
+}
+
+#box4 {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 2px solid black;
+}
+
+body {
+    background-image: url("/images/law4.jpg");
+    
+}
